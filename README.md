@@ -1,3 +1,4 @@
 # Codigo-Inicial-Agenda-Contatos-Java
 
-Codigo base para a turma desenvolver uma solução!
+agenda feita para mostrar alguns principios em java como em POO e algumas proteçoes teste! e diverta-se!
+
