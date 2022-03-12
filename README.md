@@ -1,2 +1,3 @@
-# Agenda-de-Contatos
-agenda de contatos simples feito em java demonstraçao de uso de algumas funçoes e metodos
+# Codigo-Inicial-Agenda-Contatos-Java
+
+Codigo base para a turma desenvolver uma solução!
