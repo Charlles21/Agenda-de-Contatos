@@ -88,7 +88,7 @@ public class Programa {
           
       case 2:        
 
-        System.out.println("\n     ------ Infos dos funcionarios --------\n");     
+        System.out.println("\n     ------ Infos dos Contatos --------\n");     
           
         for (int Contador = 0; Contador < Agenda.length; Contador++) {         
           if(Agenda[Contador]!=null){Agenda[Contador].getInfo();}          
